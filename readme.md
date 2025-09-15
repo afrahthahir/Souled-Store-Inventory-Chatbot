@@ -1,4 +1,4 @@
-# SQL Database Chatbot
+# Souled Store Inventory Chatbot
 This project implements an intelligent chatbot that can answer questions by querying a SQL database using Natural Language Processing (NLP). Built with LangChain, it connects to your database, understands user queries, converts them into SQL, executes the queries, and provides natural language answers based on the retrieved results.
 
 ## Features
